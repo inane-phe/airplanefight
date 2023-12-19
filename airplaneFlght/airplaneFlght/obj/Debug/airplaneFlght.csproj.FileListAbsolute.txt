@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\bin\Debug\airplaneFlght.exe.config
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\bin\Debug\airplaneFlght.exe
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\bin\Debug\airplaneFlght.pdb
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\obj\Debug\airplaneFlght.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\obj\Debug\airplaneFlght.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\obj\Debug\airplaneFlght.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\obj\Debug\airplaneFlght.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\obj\Debug\airplaneFlght.exe
+c:\users\user\documents\visual studio 2013\Projects\airplaneFlght\airplaneFlght\obj\Debug\airplaneFlght.pdb
